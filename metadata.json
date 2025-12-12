@@ -1,0 +1,5 @@
+{
+  "name": "TGRS Infrared Insight",
+  "description": "An AI-powered research assistant to discover and analyze 2024-2025 IEEE TGRS papers on Infrared Small Target Detection, extracting deep technical attributes like architecture and metrics.",
+  "requestFramePermissions": []
+}
